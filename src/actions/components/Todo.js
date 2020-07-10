@@ -12,3 +12,4 @@ const Todo = ({ onClick, completed, text }) => (
 );
 
 export default Todo;
+  
